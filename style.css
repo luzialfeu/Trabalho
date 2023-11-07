@@ -1,9 +1,9 @@
 body{
     
-    background: #CCCCCC;
+    background: rgb(49, 75, 223);
 }
     #banner {
-        width: 50%;
+        width: 100%;
 }
 
 p {
