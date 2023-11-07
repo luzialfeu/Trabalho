@@ -5,7 +5,10 @@ body{
 }
 body{
     background-image:url(fundo-azul-do-gradiente-de-luxo-abstrato-liso-azul-escuro-com-vinheta-preta-studio-banner_1258-52379.jpeg);
+#banner {
 width: 50%;
+}
+
 }
  {
     background: rgb(49, 75, 223);
