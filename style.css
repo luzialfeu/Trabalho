@@ -1,7 +1,9 @@
 body{
     background-image:url(vista-aérea-da-geleira.jpg);
-    background-repeat: ;
-    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ {
     background: rgb(49, 75, 223);
 }
     #banner {
